@@ -67,10 +67,10 @@ The best way to come up with a viable product is to do some light experimentatio
 To see a forecast for the day, run the following command.
 
 ```shell
-http GET 'http://api.openweathermap.org/data/2.5/forecast/city?APPID=cc4654c8e15f6d08b13954b915a0d0b1&q=Seattle'
+http GET 'http://api.openweathermap.org/data/2.5/weather?APPID=cc4654c8e15f6d08b13954b915a0d0b1&q=Seattle'
 ```
 
-And you should see something [like this](https://gist.github.com/ryansobol/6de100a8c02e0f7077a89ce2abd5b088).
+And you should see something [like this](https://gist.github.com/ryansobol/22c1198849818eb1ec2a8b39ad82c1d5).
 
 Once you figure out how a web API works, start thinking about the problems you could solve with this information. Using our weather service API, one problem worth solving could be this.
 
