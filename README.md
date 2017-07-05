@@ -29,9 +29,13 @@ Turn to a neighbor and explain what a wireframe is in your own words. In your ex
 
 A wireframe is important because it increases the chances that your product will be viable. A **viable product** is one that helps a user achieve their goals. Studies of successful products that go to market repeatedly show that users don't care that much about features. They only care about achieving their goals.
 
+![](https://public-media.interaction-design.org/images/uploads/e110f6dc07d9e8ebe1ea8251eab2a359.png)
+
 It's easy to imagine what a product should look like or how it should behave. But until you create a wireframe, these are just unvalidated assumptions that may not lead to a viable product. The assumptions you make about a product as you develop it may not be the same assumptions that a user will make the first time they interact with it. With a wireframe, you can have a conversation with the product's potential users and other stakeholders without having to discuss the nitty-gritty details.
 
 Take the next ten seconds to imagine an automobile in your head. Think about its make, model, and color. What was the picture you created? What assumptions did you make?
+
+After we've dicussed the results of this exercise as a class, go ahead and click on the following link which explains [how to build a Minimum Viable Product (MVP)](https://public-media.interaction-design.org/images/uploads/9f7f5b30ed9905117b65572ab6949a9f.png).
 
 A good wireframe increases the chances that your product will be viable by meeting the following user experience (UX) best practices.
 
@@ -128,6 +132,7 @@ Take the next 10 minutes to create a late stage illustration of the first box (i
 - [How To Build A Tire Swing – A Case For Agile Development](http://blogs.perficient.com/perficientdigital/2011/07/22/how-to-build-a-tire-swing-a-case-for-agile-development/)
 - [How To Read a Wireframe](http://blog.fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf)
 - [Medium - User Experience: Primary and Secondary Users in Healthcare](https://medium.theuxblog.com/user-experience-primary-and-secondary-users-in-healthcare-8dd4c5c61490#.t43i3b6jt)
+- [Minimum Viable Product (MVP) and Design - Balancing Risk to Gain Reward](https://www.interaction-design.org/literature/article/minimum-viable-product-mvp-and-design-balancing-risk-to-gain-reward)
 - [Pttrns (mobile only)](http://pttrns.com/)
 - [UI Patterns](http://uipatterns.io/)
 - [User Interface Design Patterns](http://ui-patterns.com/)
