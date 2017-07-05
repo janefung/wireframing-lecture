@@ -27,7 +27,7 @@ Turn to a neighbor and explain what a wireframe is in your own words. In your ex
 
 ## Why is a wireframe important?
 
-A wireframe is important because it increases the chances that your product will be viable. A **viable product** is one that helps a user achieve their goals. Studies of successful products that go to market repeatedly show that users don't care that much about features. They only care about achieving their goals.
+A wireframe is important because it increases the chances that your product will be viable. A **viable product** is one that helps a user achieve their goals. Studies of successful products that go to market repeatedly show that users don't care that much about features. They only care about achieving their goals. The following diagram illustrates the difference between building a Minimum Viable Product (MVP) by focusing on product features versus focusing on user goals.
 
 ![](https://public-media.interaction-design.org/images/uploads/e110f6dc07d9e8ebe1ea8251eab2a359.png)
 
